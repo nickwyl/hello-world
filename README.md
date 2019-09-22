@@ -1,10 +1,9 @@
 # hello-world
-My first repository
 
-Hello fellow comrades,
+Hello,
 
-Daveed here. I'm not sure if I should delete the "My first repository" line above.
+Welcome to my GitHub. Here, you will find everything you need (okay, maybe not EVERYTHING). 
 
-Peace out,
+Best,
 
-David
+Nick
